@@ -1,0 +1,8 @@
+---
+pipelines:
+  - name: pipeline-1
+    team: main
+    config_file: pipeline-1.yml
+  - name: pipeline-2
+    team: main
+    config_file: pipeline-2.yml
